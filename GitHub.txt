@@ -1,0 +1,28 @@
+a)copy the github url
+b)open cmd-->choouse your directory [ ex : cd Desktop ]
+c) git clone https://github.com/RajeshNalleboina/abc.git
+d) automatically create one file [ ex : abc ] go to the particular file path in cmd
+e)cd filename [ex : abc ]
+f) copy all your previous project files and past in to the  abc folder
+g) check all files are available in your repo. or not 
+[ command is : git status ]
+h) add all files to your repo.
+
+[command is :git add --all ]
+
+i) add some discription messagereg your web application. Which modifications are done in your web application.
+
+[Command is  : git commit -m " creates cards views with js files"]
+
+->For the first time ask your github credentials. You need to give your git credentials
+
+j) Entire your project/web application host into your github repository
+[Command is : git push -u origin master]
+
+refresh your github browser 
+
+Click on settings symbol-->scroll down upto GitHub Pages --> Source to masterbranch
+
+after it displays link.
+it's a github published link
+ 
